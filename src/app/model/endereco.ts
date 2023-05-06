@@ -2,7 +2,7 @@
 
 export class Endereco{
   cep = '';
-  logradrouro = '';
+  logradouro = '';
   complemento = '';
   bairro = '';
   localidade = '';

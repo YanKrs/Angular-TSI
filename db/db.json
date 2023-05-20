@@ -1,0 +1,33 @@
+{
+  "cliente": [
+    {
+      "nome": "Yan",
+      "CPF": "54895678932",
+      "id": 1
+    },
+    {
+      "nome": "Juia",
+      "CPF": "5717567871",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Cosmo",
+      "cpf": "2345345356735"
+    }
+  ],
+  "Produto": [
+    {
+      "nome": "Elseve",
+      "codigo": 548642,
+      "tipo": "Beleza",
+      "id": 1
+    },
+    {
+      "nome": "bala",
+      "codigo": 125654,
+      "tipo": "comida",
+      "id": 2
+    }
+  ]
+}

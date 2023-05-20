@@ -1,0 +1,7 @@
+observable: serve para observar as coisas em paralelo, fazer chamadas em paralelo
+
+observable deve receber o parâmtro exatamente igual ao tipo do item dentro da função 
+
+npm install -g json-server
+
+json-server --watch db.json
